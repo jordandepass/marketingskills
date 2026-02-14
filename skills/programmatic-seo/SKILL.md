@@ -1,7 +1,10 @@
 ---
 name: programmatic-seo
 version: 1.0.0
-description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
+description: Build programmatic SEO pages at scale.
+model: opus
+allowed-tools: Read, Write, Edit, Glob, Grep
+user-invocable: true
 ---
 
 # Programmatic SEO
