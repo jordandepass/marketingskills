@@ -1,0 +1,9 @@
+{
+  "name": "marketingskills",
+  "description": "25 marketing skills: CRO, copywriting, SEO, paid ads, pricing strategy, referral programs, and more.",
+  "version": "1.0.0",
+  "author": { "name": "Corey Haines", "url": "https://corey.co" },
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT",
+  "keywords": ["marketing", "cro", "copywriting", "seo", "analytics", "growth"]
+}
